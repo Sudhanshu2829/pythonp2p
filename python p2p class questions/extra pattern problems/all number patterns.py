@@ -37,7 +37,7 @@ for row in range(1,row4+1):
             print(end="  ")
     print()
 
-print("\ninverted half pyramid:")
+print("\ninverted hollow half pyramid:")
 row5=int(input("enter no. of rows:"))
 for row in range(1,row5+1):
     for col in range(1,row5+1):
@@ -51,7 +51,7 @@ for row in range(1,row5+1):
             print(" ",end=" ")
     print()
 
-print("\nfull hollow pyramid:")
+print("\nhollow full pyramid:")
 row6=int(input("enter the no. of rows"))
 i,k=1,2
 for row in range(1,row6+1):
