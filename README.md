@@ -1,1 +1,8 @@
-# pythonp2p
+# pythonp2pclasses
+
+
+
+This repository contains all the coding questions that were asked during the Python P2P classes conducted by the Github Club of Sharda University. These questions are beneficial in testing my knowledge that I gained throughout hte course.
+I am grateful to Sheikh Parvez Ahmed President of the Github Club, Sharda University
+ <li><a href="https://github.com/ParvezAhmed111"</a>   
+and our mentor during the course Mr.Sidharth Gautam
